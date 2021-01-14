@@ -1,6 +1,9 @@
 body{
     width: 100%;
     /*background-color: #000000;*/
+    background-image: url("../pictures/space_square.png");
+    background-repeat: repeat;
+    background-color:#000000;
 }
 header{
     width: 75%;
