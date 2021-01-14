@@ -1,0 +1,30 @@
+body{
+    width: 100%;
+    /*background-color: #000000;*/
+}
+header{
+    width: 75%;
+    margin:auto;
+    padding:20px;
+}
+main{
+    width: 75%;
+    margin:auto;
+    padding:20px;
+}
+footer{
+
+}
+h1{
+    font-size: 2.5vw;
+}
+h2{
+    font-size: 2.0vw;
+}
+h3{
+    font-size: 1.5vw;
+    text-decoration: underline;
+}
+h4{
+    font-size: 1.0vw;
+}
